@@ -1,1 +1,1 @@
-# weather-news-app
+# Weather & News Application
